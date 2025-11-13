@@ -16,10 +16,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'inventory.apps.InventoryConfig',
     'social_django',
     'management',
-    'inventory',
 ]
 
 ROOT_URLCONF = 'provesi.urls'
